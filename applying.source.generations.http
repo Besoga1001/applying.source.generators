@@ -1,0 +1,6 @@
+@applying.source.generations_HostAddress = http://localhost:5004
+
+GET {{applying.source.generations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
